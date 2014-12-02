@@ -3,3 +3,5 @@ test2
 github test2
 
 web edit test2
+
+local edit test2
